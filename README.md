@@ -12,7 +12,13 @@ Answer: Milestones in the evolution of software engineering include the developm
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Answer: The phases of Software Development Life Cycle are: 
+i.)     Requirements: It involves gathering and documenting user needs and system requirements.
+ii.)    Design: It involves creating high-level and detailed designs of the software architecture and user interface.
+iii.)   Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
